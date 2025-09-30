@@ -11,8 +11,8 @@ mail: *andrea.montibeller[at]unitn.it*
 
 ## LABS:
 
-1. Virtual-Env SetUP and Challenge Rules (WE SWITCH TO PYTHON 3.10 IN 2025)
-- [CODE and Exercises Solutions](https://drive.google.com/file/d/1fhomZfQuDNrvoG4sbKu6dqGyOw7vZSuB/view?usp=sharing) 
+1. Virtual-Env SetUP and Challenge Rules (WE SWITCHED TO PYTHON 3.10 IN 2025)
+- [CODE and Exercises Solutions](https://drive.google.com/file/d/161PnA5WdxXK0dFBJJ5SiFENktfv9b0Ug/view?usp=sharing) 
 - [Class Video](https://youtu.be/AbMaN5joBBk)  (sorry, in this first video I am covering part of the python notebook with my cam. In anycase, all the info you need are also written in the notebook.)
 <!---[YouTube Video Resume]()--->
 <!---
