@@ -3,10 +3,10 @@ The repo collecting all the laboratory material for the course Multimedia Data S
 
 **Professor:** Giulia Boato 
 
-**Teaching Assistant:** Andrea Montibeller \
+**Assistant Professor:** Andrea Montibeller \
 mail: *andrea.montibeller[at]unitn.it*
 
-## [Video Playlist](https://www.youtube.com/playlist?list=PLEUxdtdayXWuy0Sg6Qlgp6QUA5iw7l9YJ)
+<!---## [Video Playlist](https://www.youtube.com/playlist?list=PLEUxdtdayXWuy0Sg6Qlgp6QUA5iw7l9YJ)--->
 
 
 ## LABS:
