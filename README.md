@@ -1,4 +1,4 @@
-# Multimedia Data Security 2025/26 Unitn
+# Multimedia Data Security 2025/26 UniTn
 The repo collecting all the laboratory material for the course Multimedia Data Security @ University of Trento 
 
 **Professor:** Giulia Boato 
@@ -24,14 +24,14 @@ mail: *andrea.montibeller[at]unitn.it*
 3. LSB Watermarking, Spread Spectrum Watermarking and Receiver operating characteristic (ROC) Curve
 - [CODE and Exercises Solutions](https://drive.google.com/file/d/1t1g2Uezhd12k5fyg7DSxi2C7NKTG29ZD/view?usp=sharing) 
 - [Class Video](https://youtu.be/kP1b-V-WVF8) 
-<!---
-4. Exercise Solutions Video
+
+4. LSB Watermarking, Spread Spectrum Watermarking and Receiver operating characteristic (ROC) Curve Exercise Solutions Video
 - [Class Video](https://youtu.be/XCkzV_0XYhg)
 
 5. Photo Response non-Uniformity
-- [CODE and Exercises Solutions](https://drive.google.com/file/d/1R2aevb_kM-3IXwQM0I_s4sOMC68b26uC/view?usp=sharing) 
+- [CODE and Exercises Solutions](https://drive.google.com/file/d/15wpgmJRcJ7U6SNtSVOkcb2e7A7Mm0OSA/view?usp=sharing) 
 - [Class Video](https://youtu.be/3DAK9K2owCg)
-
+<!---
 6. Tampering Detection
 - [CODE and Exercises Solutions](https://drive.google.com/file/d/1i8eiuMnaJY3coKKkZFTQN5ot2dhPaivD/view?usp=sharing) 
 - [Class Video]()--->
