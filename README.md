@@ -33,6 +33,10 @@ mail: *andrea.montibeller[at]unitn.it*
 - [Class Video](https://youtu.be/3DAK9K2owCg)
 
 6. Tampering Detection
-- [CODE and Exercises Solutions](https://drive.google.com/file/d/1Zra0ihu2Sjt2wZq2ECyUROIgmrItLE6w/view?usp=sharing) 
-- [Class Video]()---> COMING SOON
+- [CODE and Exercises Solutions](https://drive.google.com/file/d/1Jtzi-WiPwOtREfGXeJv8oE_ZliuzAdD2/view?usp=sharing) 
+- [Class Video](https://youtu.be/eiFn-xyJ9LQ?si=biJb15IkmjGDeuT_)
+
+7. AI-Based Deepfake Detectors
+- [CODE and Exercises Solutions](https://drive.google.com/file/d/1lyXrBWPnXhu9_zdJ_v8qAoYNycSbEn-r/view?usp=sharing) 
+- [Class Video](https://youtu.be/sxBScMyKBoE?list=PLEUxdtdayXWuy0Sg6Qlgp6QUA5iw7l9YJ)
 
