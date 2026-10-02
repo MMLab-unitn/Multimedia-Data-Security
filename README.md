@@ -11,32 +11,32 @@ mail: *andrea.montibeller[at]unitn.it*
 
 ## LABS:
 
-1. Virtual-Env SetUP and Challenge Rules (WE SWITCHED TO PYTHON 3.10 IN 2025)
+1. Virtual-Env SetUP and Challenge Rules (WE SWITCHED TO PYTHON 3.10 IN 2025). **IMPORTANT: THIS VIDEO IS HERE FOR REFERENCE. THE VIDEO IS FROM 2025.**
 - [CODE and Exercises Solutions](https://drive.google.com/file/d/161PnA5WdxXK0dFBJJ5SiFENktfv9b0Ug/view?usp=sharing) 
 - [Class Video](https://youtu.be/AbMaN5joBBk)  (sorry, in this first video I am covering part of the python notebook with my cam. In anycase, all the info you need are also written in the notebook.)
 <!---[YouTube Video Resume]()--->
 
-2. Image Processing and Domain Transformation
+<!---2. Image Processing and Domain Transformation
 - [CODE and Exercises Solutions](https://drive.google.com/file/d/1UTKeFOTxrejM2qjoe2IBSb3biidmIQyl/view?usp=sharing) 
-- [Class Video](https://youtu.be/P7dZuoxVeAs) 
+- [Class Video](https://youtu.be/P7dZuoxVeAs)--->
 
 
-3. LSB Watermarking, Spread Spectrum Watermarking and Receiver operating characteristic (ROC) Curve
+<!---3. LSB Watermarking, Spread Spectrum Watermarking and Receiver operating characteristic (ROC) Curve
 - [CODE and Exercises Solutions](https://drive.google.com/file/d/1t1g2Uezhd12k5fyg7DSxi2C7NKTG29ZD/view?usp=sharing) 
-- [Class Video](https://youtu.be/kP1b-V-WVF8) 
+- [Class Video](https://youtu.be/kP1b-V-WVF8)--->
 
-4. LSB Watermarking, Spread Spectrum Watermarking and Receiver operating characteristic (ROC) Curve Exercise Solutions Video
-- [Class Video](https://youtu.be/XCkzV_0XYhg)
+<!---4. LSB Watermarking, Spread Spectrum Watermarking and Receiver operating characteristic (ROC) Curve Exercise Solutions Video
+- [Class Video](https://youtu.be/XCkzV_0XYhg)--->
 
-5. Photo Response non-Uniformity
+<!---5. Photo Response non-Uniformity
 - [CODE and Exercises Solutions](https://drive.google.com/file/d/15wpgmJRcJ7U6SNtSVOkcb2e7A7Mm0OSA/view?usp=sharing) 
-- [Class Video](https://youtu.be/3DAK9K2owCg)
+- [Class Video](https://youtu.be/3DAK9K2owCg)--->
 
-6. Tampering Detection
+<!---6. Tampering Detection
 - [CODE and Exercises Solutions](https://drive.google.com/file/d/1Jtzi-WiPwOtREfGXeJv8oE_ZliuzAdD2/view?usp=sharing) 
-- [Class Video](https://youtu.be/eiFn-xyJ9LQ?si=biJb15IkmjGDeuT_)
+- [Class Video](https://youtu.be/eiFn-xyJ9LQ?si=biJb15IkmjGDeuT_)--->
 
-7. AI-Based Deepfake Detectors
+<!---7. AI-Based Deepfake Detectors
 - [CODE and Exercises Solutions](https://drive.google.com/file/d/1lyXrBWPnXhu9_zdJ_v8qAoYNycSbEn-r/view?usp=sharing) 
-- [Class Video](https://youtu.be/sxBScMyKBoE?list=PLEUxdtdayXWuy0Sg6Qlgp6QUA5iw7l9YJ)
+- [Class Video](https://youtu.be/sxBScMyKBoE?list=PLEUxdtdayXWuy0Sg6Qlgp6QUA5iw7l9YJ)--->
 
