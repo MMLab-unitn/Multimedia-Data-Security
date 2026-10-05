@@ -16,9 +16,9 @@ mail: *andrea.montibeller[at]unitn.it*
 - [Class Video](https://youtu.be/AbMaN5joBBk)  (sorry, in this first video I am covering part of the python notebook with my cam. In anycase, all the info you need are also written in the notebook.)
 <!---[YouTube Video Resume]()--->
 
-<!---2. Image Processing and Domain Transformation
-- [CODE and Exercises Solutions](https://drive.google.com/file/d/1UTKeFOTxrejM2qjoe2IBSb3biidmIQyl/view?usp=sharing) 
-- [Class Video](https://youtu.be/P7dZuoxVeAs)--->
+2. Image Processing and Domain Transformation
+- [CODE and Exercises Solutions](https://drive.google.com/file/d/1psdruvQTSMUH0DZodJ7RF2M3aVAYRe6V/view?usp=sharing) 
+- [Class Video](https://youtu.be/P7dZuoxVeAs)
 
 
 <!---3. LSB Watermarking, Spread Spectrum Watermarking and Receiver operating characteristic (ROC) Curve
