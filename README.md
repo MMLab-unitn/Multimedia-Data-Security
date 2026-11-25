@@ -25,6 +25,17 @@ mail: *andrea.montibeller[at]unitn.it*
 - [CODE and Exercises Solutions](https://drive.google.com/file/d/1jQqtISyh-5MeJg1aAoWIE0HvSFxBRaAp/view?usp=sharing) 
 - [Class Video](https://youtu.be/kP1b-V-WVF8)
 
+4. LAB4 - DWT, Neyman Person, Robustness, ROC with held-out
+- [CODE and Exercises Solutions](https://drive.google.com/drive/folders/1zc6ralczUkHE1kQC9lSRrJchSQbAvwjD?usp=drive_link)
+
+5. Fake Audio Detection [stefano.dellanna@unitn.it]
+- [CODE and Exercises Solutions](https://drive.google.com/drive/folders/1dE5kHWz1HIocVKwlPIMS8mB-AXdi-Sp5?usp=sharing) 
+- [Class Video](https://youtu.be/bEJ4-z8AhkA)
+
+6. Fake Video Detection
+- [CODE and Exercises Solutions](https://drive.google.com/drive/folders/1dE5kHWz1HIocVKwlPIMS8mB-AXdi-Sp5?usp=sharing) 
+- [Class Video](https://youtu.be/bEJ4-z8AhkA)
+
 <!---4. LSB Watermarking, Spread Spectrum Watermarking and Receiver operating characteristic (ROC) Curve Exercise Solutions Video
 - [Class Video](https://youtu.be/XCkzV_0XYhg)--->
 
