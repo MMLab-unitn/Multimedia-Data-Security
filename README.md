@@ -29,7 +29,7 @@ mail: *andrea.montibeller[at]unitn.it*
 - [CODE and Exercises Solutions](https://drive.google.com/drive/folders/1zc6ralczUkHE1kQC9lSRrJchSQbAvwjD?usp=drive_link)
 
 5. Fake Audio Detection [stefano.dellanna@unitn.it]
-- [CODE and Exercises Solutions](https://drive.google.com/drive/folders/1dE5kHWz1HIocVKwlPIMS8mB-AXdi-Sp5?usp=sharing) 
+- [CODE and Exercises Solutions](https://drive.google.com/file/d/1m3eP2gtTks7tNWbJfy8SFIkjFxjcnNkj/view?usp=sharing) 
 - [Class Video](https://youtu.be/bEJ4-z8AhkA)
 
 6. Fake Video Detection
