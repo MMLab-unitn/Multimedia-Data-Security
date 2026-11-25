@@ -33,7 +33,7 @@ mail: *andrea.montibeller[at]unitn.it*
 - [Class Video](https://youtu.be/bEJ4-z8AhkA)
 
 6. Fake Video Detection
-- [CODE and Exercises Solutions](https://drive.google.com/drive/folders/1dE5kHWz1HIocVKwlPIMS8mB-AXdi-Sp5?usp=sharing) 
+- [CODE and Exercises Solutions](https://drive.google.com/file/d/12MSyGLaTJq7Vv8NwtwAvQn71bjCVB93p/view?usp=sharing) 
 - [Class Video](https://youtu.be/bEJ4-z8AhkA)
 
 <!---4. LSB Watermarking, Spread Spectrum Watermarking and Receiver operating characteristic (ROC) Curve Exercise Solutions Video
